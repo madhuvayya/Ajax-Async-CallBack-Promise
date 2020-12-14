@@ -34,17 +34,6 @@
       }
     },
     {
-      "id": 4,
-      "name": "Mark Zuckerberg",
-      "salary": 3000000,
-      "gender": "M",
-      "startDate": {
-        "year": 2020,
-        "month": 11,
-        "day": 25
-      }
-    },
-    {
       "id": 5,
       "name": "Sunder",
       "salary": 6000000,
